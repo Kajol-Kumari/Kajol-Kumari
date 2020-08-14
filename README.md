@@ -24,6 +24,10 @@ Web development | Competitive Programming | Open Source Contribution
 ![Kajol's github stats](https://github-readme-stats.vercel.app/api?username=Kajol-Kumari&count_private=true&show_icons=true&theme=radical)
 
 
+### My Most used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAJOL-KUMARI&show_icons=true&theme=radical)
+
 
 ### Contact
 
