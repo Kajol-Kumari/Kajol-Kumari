@@ -7,7 +7,7 @@ I am a CSE undergraduate student at Heritage Institute of Technology, Kolkata. I
 
 
 ### Technical Skills
-<img src="https://img.shields.io/badge/-Angular-%23cc0000?style=flat&logo=Angular"> <img src="https://img.shields.io/badge/-NodeJS-black"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB"> <br />
+<img src="https://img.shields.io/badge/-Angular-%23cc0000?style=flat&logo=Angular"> <img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB"> <br />
 <img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase">  <br />
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
