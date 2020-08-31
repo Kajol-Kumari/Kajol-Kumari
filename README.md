@@ -38,5 +38,8 @@ Web development | Competitive Programming | Open Source Contribution
   <img align="left" alt="Kajol Kumari| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:kajolkumarisingh222@gmail.com">
-  <img align="left" alt="Kajol Kumari| Gmaiil" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Kajol Kumari| Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://medium.com/@kajolkumarisingh222">
+  <img align="left" alt="Kajol Kumari| Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
