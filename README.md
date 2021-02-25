@@ -16,12 +16,12 @@ I am a CSE undergraduate student at Heritage Institute of Technology, Kolkata. I
 
 ### My Interests
 
-Web development | Competitive Programming | Open Source Contribution
+Software Development | Web development | Competitive Programming | Open Source Contribution
 
 
 ### My Stats
 
-![Kajol's github stats](https://github-readme-stats.vercel.app/api?username=Kajol-Kumari&count_private=true&show_icons=true&theme=radical)
+![Kajol's Github Stats](https://github-readme-stats.vercel.app/api?username=Kajol-Kumari&count_private=true&show_icons=true&theme=radical)
 
 
 ### My Most used Languages
@@ -34,12 +34,12 @@ Web development | Competitive Programming | Open Source Contribution
 <a href="https://www.linkedin.com/in/kajol-kumari-73245b166/">
   <img align="left" alt="Kajol Kuamri|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/Kajol74266398">
+<a href="https://twitter.com/_Kajol_singh_">
   <img align="left" alt="Kajol Kumari| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:kajolkumarisingh222@gmail.com">
   <img align="left" alt="Kajol Kumari| Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://medium.com/@kajolkumarisingh222">
+<a href="https://medium.com/@kajol_singh">
   <img align="left" alt="Kajol Kumari| Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
