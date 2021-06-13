@@ -24,7 +24,6 @@ Software Development | Web development | Competitive Programming | Open Source C
 <img  src="https://github-readme-stats.vercel.app/api?username=Kajol-Kumari&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Kajol-Kumari&theme=dark" width="48%" >
 <br>
-<br>
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kajol-Kumari.Kajol-Kumari)
