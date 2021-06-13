@@ -21,7 +21,17 @@ Software Development | Web development | Competitive Programming | Open Source C
 
 ### My Stats
 
-![Kajol's Github Stats](https://github-readme-stats.vercel.app/api?username=Kajol-Kumari&count_private=true&show_icons=true&theme=radical)
+<img  src="https://github-readme-stats.vercel.app/api?username=Kajol-Kumari&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Kajol-Kumari&theme=dark" width="48%" >
+<br>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kajol-Kumari&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kajol-Kumari.Kajol-Kumari)
+</div>
+<!-- ![Kajol's Github Stats](https://github-readme-stats.vercel.app/api?username=Kajol-Kumari&count_private=true&show_icons=true&theme=radical) -->
 
 
 ### My Most used Languages
