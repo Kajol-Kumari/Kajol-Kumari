@@ -1,17 +1,15 @@
 ## Hey there! I'm Kajol 👋
 
-### About me 👩
-
-I am a CSE undergraduate student at Heritage Institute of Technology, Kolkata. I am a competitive programmer and I work on web development projects. I ❤ contributing to open source.
+I am a Software Developer who ❤ contributing to open source.
 
 
 
 ### Technical Skills
-<img src="https://img.shields.io/badge/-Angular-%23cc0000?style=flat&logo=Angular"> <img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB"> <br />
-<img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase">  <img src="https://img.shields.io/badge/-AWS-orange"> <br />
+<img src="https://img.shields.io/badge/-Angular-%23cc0000?style=flat&logo=Angular"> <img src="https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node.js"> <img src="https://img.shields.io/badge/-MongoDB-yellow?style=flat&logo=mongoDB">
+<img src="https://img.shields.io/badge/-django-black?style=flat&logo=django"> <img src="https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase">  <img src="https://img.shields.io/badge/-AWS-orange">
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <br />
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <br />
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> <br />
 
 ### My Interests
@@ -20,9 +18,8 @@ Software Development | Web development | Competitive Programming | Open Source C
 
 
 ### My Stats
-
-<img  src="https://github-readme-stats.vercel.app/api?username=Kajol-Kumari&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Kajol-Kumari&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=Kajol-Kumari&show_icons=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Kajol-Kumari&theme=tokyonight" width="48%" >
 <br>
 <div align="center">
 
@@ -30,13 +27,16 @@ Software Development | Web development | Competitive Programming | Open Source C
 </div>
 <!-- ![Kajol's Github Stats](https://github-readme-stats.vercel.app/api?username=Kajol-Kumari&count_private=true&show_icons=true&theme=radical) -->
 
-
+<div align="center">
+ 
 ### My Most used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAJOL-KUMARI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAJOL-KUMARI&show_icons=true&theme=tokyonight&layout=compact)
+</div>
 
+<div align="center">
 
-### Contact
+### Contact Me
 
 <!-- <a href="https://www.linkedin.com/in/kajol-kumari-73245b166/">
   <img align="left" alt="Kajol Kuamri|Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -57,3 +57,4 @@ Software Development | Web development | Competitive Programming | Open Source C
 <a href="https://www.linkedin.com/in/kajol-kumari-73245b166/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a> 
 <a href="https://medium.com/@kajol_singh" rel="nofollow"><img alt="Medium" src="https://camo.githubusercontent.com/49c80c79c674e543c2c7c2ee7930cc15791f4bd56da17c4b3c91c273349bef8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d656469756d2d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d656469756d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/medium-%2312100E.svg?&amp;style=for-the-badge&amp;logo=medium&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
+</div>
